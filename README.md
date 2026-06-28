@@ -38,7 +38,6 @@ nbody-net/
 │   ├── 2_training.ipynb             # Train one model at a time
 │   └── 3_testing.ipynb              # Quantitative + qualitative evaluation
 │
-├── .gitignore
 ├── requirements.txt
 └── README.md
 ```
